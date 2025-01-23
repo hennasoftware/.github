@@ -1,4 +1,4 @@
-# Welcome to Our GitHub Organization! 🎉
+# Welcome to our GitHub organization! 🎉
 
 ### **Who We Are**
 We are a passionate group of friends collaborating to create impactful projects. Our goal is to learn, grow, and improve our technical and professional skills while delivering real-world solutions that benefit society.
