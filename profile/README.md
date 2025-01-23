@@ -40,7 +40,7 @@ While we’re currently a closed group of friends, we’re always open to collab
 
 ### **Contact Us**
 For inquiries or collaborations, you can reach us via:
-- [Discord](#) (https://discord.gg/yNBs6NAKbd)
+- [Discord](https://discord.gg/yNBs6NAKbd)
 - [Email](mailto:hennasoftware@gmail.com)
 
 Let’s build, learn, and grow together! 🚀
