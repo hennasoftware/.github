@@ -12,14 +12,6 @@ We are a passionate group of friends collaborating to create impactful projects.
 
 ---
 
-### **Our Projects**
-Here are some of the exciting projects we’re working on:
-- 🕹️ **Game Backlog Tracker:** A web app to help gamers organize their game collections and track their progress.
-- 🤖 **AI-Powered Chatbots:** Tools to automate workflows and provide intelligent assistance in various domains.
-- 🌍 **Social Solutions:** Applications focused on education, environment, and other community-driven initiatives.
-
----
-
 ### **How We Work**
 - **Collaboration Tools:**
   - GitHub for code hosting and version control.
